@@ -3,6 +3,7 @@ The project is based on PIZZA SALES for year of 2015,Jan/15-Dec/15.
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically,we want to calculate the following metrics:
 
 PROBLEM STATEMENT:
+
 1.Total Revenue: The sum of the total price of all pizza orders.
 2. Average Order Value: The average amount spent per order,calculated bby dividing the total revenue by the total number of orders.
 3. Total Sold: The sum of the quantities off all pizzaz sold.
