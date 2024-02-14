@@ -16,10 +16,10 @@ CHARTS REQUIRMENTS:
 5. total Pizzas sold by Pizza Category:
 6. Top 5 best Sellers by Revenue,Total Quantity and Total Orders:
 7. Bottom 5 Best Sellers by Revenue,Total Quantity and Total Orders:
-8. 
-9. SOFTWARE USED:
-10. MS OFFICE/EXCEL;
-11. MS SQL SERVER: SQL SERVER MANAGEMENT STUDIO;
-12. POWER BI;
+ 
+ SOFTWARE USED:
+1. MS OFFICE/EXCEL
+2. MS SQL SERVER: SQL SERVER MANAGEMENT STUDIO;
+3. POWER BI;
 
 
